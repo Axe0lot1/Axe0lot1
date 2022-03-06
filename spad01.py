@@ -5,6 +5,8 @@ import tkinter as tk
 import time
 import math
 
+# komentar
+
 #w=tk.Tk
 #c=tk.Canvas(w, height=1500, width=900, bg="#fff")
 #c.pack
